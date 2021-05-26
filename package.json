@@ -1,5 +1,5 @@
 {
-  "name": "get-vcf",
+  "name": "get-vcard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,0 +1,12 @@
+N:LastName;FirstName;MiddleName;Salutation;Degress
+Comma separate if multiple in one 
+TEL;TYPE=home:tel:+33-01-23-45-67
+cell,home,work, etc.
+EMAIL;TYPE=internet,pref:jane_doe@example.com
+EMAIL;TYPE=uri,work:http://example.com/contact.php
+LANG:fr,en\;q=0.9
+TITLE: 
+ROLE:Programmer
+ORG:ABC\, Inc.;North American Division;Marketing
+CATEGORIES:INTERNET,IETF,INDUSTRY,INFORMATION TECHNOLOGY
+URL:http://www.swbyps.restaurant.french/~chezchic.html
